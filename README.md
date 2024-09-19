@@ -4,11 +4,17 @@ Hackintosh-Gigabyte-Z790-Aorus-Elite-WIFI7-V1.2-14900K-6950XT-OpenCore
 Hardware:
 
 Motherboard：Gigabyte Z790 Aorus Elite X WIFI7 Ver1.2
+
 CPU：I9 14900K
+
 GPU：SAPPHIRE RX 6950XT 16GB
+
 WIFI+Bluetooth: Broadcom 943602CDP
+
 Network: 82599 ES SFP+ 10G dual ports
+
 macOS：Sequoia 15.0
+
 OpenCore ：1.0.2
 
 Bios Setting:
