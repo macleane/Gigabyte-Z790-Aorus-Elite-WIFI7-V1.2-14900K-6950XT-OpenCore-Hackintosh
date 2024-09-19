@@ -17,6 +17,9 @@ macOS：Sequoia 15.0
 
 OpenCore ：1.0.2
 
+
+
+
 Bios Setting:
 
 Secure Boot : Disabled
