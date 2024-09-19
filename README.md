@@ -18,18 +18,29 @@ macOS：Sequoia 15.0
 OpenCore ：1.0.2
 
 Bios Setting:
+
 Secure Boot : Disabled
+
 Internal Graphics : Enabled
+
 Above 4G Decoding : Enabled
+
 Above 4GB MMIO BIOS assignment : Enabled
+
 Re-Size BAR Support : Enabled
+
 Aperture Size : 1024MB
+
 Intel Platform Trust Technology(PTT): Disabled
+
 CFG Lock : Disabled
+
 
 ATTENTION: You may need to custom your own USB mapping.
 
+
 Everything working just fine, sleep+awake, wifi, bluetooth, GPU.....
+
 
 <img width="392" alt="Screenshot 2024-09-19 at 10 23 19" src="https://github.com/user-attachments/assets/227f3760-bc0a-480a-9ff6-3181f838e650">
 
